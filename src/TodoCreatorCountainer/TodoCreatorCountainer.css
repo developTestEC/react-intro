@@ -1,0 +1,28 @@
+.TodoCreatorCountainer {
+    background-color: rgb(240, 240, 240);
+    padding: 50px;
+    display: block;
+    border-radius: 10px;
+    width: 40%;
+    margin-top: 50px;
+}
+.TodoCreatorCountainer h1 {
+    font-size: 32px;
+    color: purple;
+    text-decoration: solid;
+    font-weight: bold;
+    margin: 10px;
+}
+.TodoCreatorCountainer h2 {
+    font-size: 20px;
+    color: purple;
+    text-decoration: solid;
+    margin: 10px;
+}
+
+.TodoCreatorCountainer img {
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+

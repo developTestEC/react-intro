@@ -1,0 +1,19 @@
+.TodoListContainer{
+    padding: 50px;
+    display: block;
+    border-radius: 10px;
+    width: 40%;
+    margin-top: 50px;
+    
+}
+.TodoListContainer h1:first-child {
+    font-size: 32px;
+    color: purple;
+    text-decoration: solid;
+    font-weight: bold;
+    margin: 10px;
+}
+.TodoListContainer h1:nth-child(2) {
+    font-size: 20px;
+    color: purple;
+}
